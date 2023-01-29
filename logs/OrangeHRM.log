@@ -1,0 +1,78 @@
+2023-01-28 12:04:08,597 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-28 12:04:08,653 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-28 12:04:24,258 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-28 12:04:25,653 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-28 12:04:26,957 - OrangeHRM_MiniProject -INFO - Login TestCase will be Pass
+2023-01-28 12:04:26,957 - OrangeHRM_MiniProject -INFO - Click on Profile Menu
+2023-01-28 12:04:27,617 - OrangeHRM_MiniProject -INFO - Click on Logout button
+2023-01-28 12:04:29,538 - OrangeHRM_MiniProject -INFO - Close the Browser
+2023-01-28 12:09:15,703 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-28 12:09:15,756 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-28 12:09:28,027 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-28 12:09:29,442 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-28 12:09:29,592 - OrangeHRM_MiniProject -INFO - Click on PIM Menu button
+2023-01-28 12:09:33,712 - OrangeHRM_MiniProject -INFO - Click on Add button
+2023-01-28 12:09:35,221 - OrangeHRM_MiniProject -INFO - Adding new Employee 
+2023-01-28 12:09:35,221 - OrangeHRM_MiniProject -INFO - Providing Employee Details
+2023-01-28 12:09:36,249 - OrangeHRM_MiniProject -INFO - Saving Employee Data
+2023-01-28 12:09:36,770 - OrangeHRM_MiniProject -INFO - Employee Added successfully
+2023-01-28 12:09:36,771 - OrangeHRM_MiniProject -INFO - Close the Browser
+2023-01-28 12:14:39,090 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-28 12:14:39,179 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-28 12:14:56,854 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-28 12:14:58,807 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-28 12:14:58,933 - OrangeHRM_MiniProject -INFO - Click on PIM Menu button
+2023-01-28 12:15:02,675 - OrangeHRM_MiniProject -INFO - Click on Employee List Menu link
+2023-01-28 12:15:04,249 - OrangeHRM_MiniProject -INFO - Searching Employee by FirstName
+2023-01-28 12:15:04,945 - OrangeHRM_MiniProject -INFO - Click on Search button
+2023-01-28 12:15:11,204 - OrangeHRM_MiniProject -INFO - Close the Browser
+2023-01-28 12:17:24,243 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-28 12:17:24,285 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-28 12:17:36,305 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-28 12:17:37,814 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-28 12:17:37,958 - OrangeHRM_MiniProject -INFO - Click on PIM Menu button
+2023-01-28 12:17:41,636 - OrangeHRM_MiniProject -INFO - Click on Employee List Menu link
+2023-01-28 12:17:43,129 - OrangeHRM_MiniProject -INFO - Searching Employee by FirstName
+2023-01-28 12:17:43,831 - OrangeHRM_MiniProject -INFO - Click on Search button
+2023-01-28 12:17:53,206 - OrangeHRM_MiniProject -INFO - Click on Select button 
+2023-01-28 12:17:53,336 - OrangeHRM_MiniProject -INFO - Click on Delete button
+2023-01-28 12:17:54,043 - OrangeHRM_MiniProject -INFO - Confirmation pop Up
+2023-01-28 12:18:00,186 - OrangeHRM_MiniProject -INFO - Ninasuccessfully got deleted
+2023-01-28 12:18:00,186 - OrangeHRM_MiniProject -INFO - Delete Employee test case passed
+2023-01-28 12:18:00,186 - OrangeHRM_MiniProject -INFO - Close the Browser
+2023-01-28 14:30:04,627 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-28 14:30:04,689 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-28 14:30:15,858 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-28 14:30:16,782 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-28 14:30:16,914 - OrangeHRM_MiniProject -INFO - Click on PIM Menu button
+2023-01-28 14:30:20,163 - OrangeHRM_MiniProject -INFO - Click on Employee List Menu link
+2023-01-28 14:30:21,347 - OrangeHRM_MiniProject -INFO - Searching Employee by FirstName
+2023-01-28 14:30:22,104 - OrangeHRM_MiniProject -INFO - Click on Search button
+2023-01-28 14:30:31,461 - OrangeHRM_MiniProject -INFO - Click on Select button 
+2023-01-28 14:30:31,630 - OrangeHRM_MiniProject -INFO - Click on Delete button
+2023-01-28 14:30:31,832 - OrangeHRM_MiniProject -INFO - Confirmation pop Up
+2023-01-28 14:37:20,570 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-28 14:37:20,677 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-28 14:37:31,532 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-28 14:37:33,203 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-28 14:37:34,730 - OrangeHRM_MiniProject -INFO - Click on PIM Menu button
+2023-01-28 14:37:36,920 - OrangeHRM_MiniProject -INFO - Click on Employee List Menu link
+2023-01-28 14:37:39,357 - OrangeHRM_MiniProject -INFO - Searching Employee by FirstName
+2023-01-28 14:37:40,143 - OrangeHRM_MiniProject -INFO - Click on Search button
+2023-01-28 14:37:49,681 - OrangeHRM_MiniProject -INFO - Click on Select button 
+2023-01-28 14:37:49,939 - OrangeHRM_MiniProject -INFO - Click on Delete button
+2023-01-28 14:37:50,208 - OrangeHRM_MiniProject -INFO - Confirmation pop Up
+2023-01-28 14:37:56,309 - OrangeHRM_MiniProject -INFO - Davidsuccessfully got deleted
+2023-01-28 14:37:56,310 - OrangeHRM_MiniProject -INFO - Delete Employee test case passed
+2023-01-28 14:37:56,312 - OrangeHRM_MiniProject -INFO - Close the Browser
+2023-01-28 14:37:58,337 - org.apache.pdfbox.pdmodel.font.FileSystemFontProvider -WARN - New fonts found, font cache will be re-built
+2023-01-28 14:37:58,337 - org.apache.pdfbox.pdmodel.font.FileSystemFontProvider -WARN - Building on-disk font cache, this may take a while
+2023-01-28 14:37:58,733 - org.apache.pdfbox.pdmodel.font.FileSystemFontProvider -WARN - Finished building on-disk font cache, found 172 fonts
+2023-01-29 13:09:51,068 - OrangeHRM_MiniProject -INFO - Launching Browser
+2023-01-29 13:09:51,118 - OrangeHRM_MiniProject -INFO - Opening URL
+2023-01-29 13:09:59,752 - OrangeHRM_MiniProject -INFO - Providing login details - UserName and Password
+2023-01-29 13:10:01,191 - OrangeHRM_MiniProject -INFO - Start Login Process
+2023-01-29 13:10:02,702 - OrangeHRM_MiniProject -INFO - Login TestCase will be Pass
+2023-01-29 13:10:02,710 - OrangeHRM_MiniProject -INFO - Click on Profile Menu
+2023-01-29 13:10:03,399 - OrangeHRM_MiniProject -INFO - Click on Logout button
+2023-01-29 13:10:05,283 - OrangeHRM_MiniProject -INFO - Close the Browser
